@@ -14,6 +14,8 @@ This assignment is all about how to retrieve the followers' data from <a href="h
 ![alt text](https://github.com/chinsfuh/256643-STIW3054-A191-A2/blob/master/asg2rt/Capture5.PNG)
 ![alt text](https://github.com/chinsfuh/256643-STIW3054-A191-A2/blob/master/asg2rt/Capture6.PNG)
 ![alt text](https://github.com/chinsfuh/256643-STIW3054-A191-A2/blob/master/asg2rt/Capture7.PNG)
+![alt text](https://github.com/chinsfuh/256643-STIW3054-A191-A2/blob/master/asg2rt/excel.PNG)
+
 
 ## UML Class Diagram
 ![alt text](.PNG)
