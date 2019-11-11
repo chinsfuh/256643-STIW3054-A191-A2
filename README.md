@@ -26,3 +26,5 @@ This assignment is all about how to retrieve the followers' data from <a href="h
 ## References
 1. https://jsoup.org/
 2. https://github.com/STIW3054-A182
+3. https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+4. https://www.ntu.edu.sg/home/ehchua/programming/java/J5e_multithreading.html
