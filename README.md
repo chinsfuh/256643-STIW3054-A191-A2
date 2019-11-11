@@ -4,7 +4,7 @@
 2. Matric No.: 256643
 
 ## Introduction
-This assignment is all about how to retrieve the followers' data from <a href="https://github.com/zhamri?tab=followers" target="_blank">Zhamri's Follower </a>and show the output of the followers' informations such as login ID, numbers of repositories, numbers of followers, and the numbers of following. The data stored will be available with Excel.
+This assignment is all about how to retrieve the followers' data from <a href="https://github.com/zhamri?tab=followers" target="_blank">Zhamri's Follower </a>and show the output of the followers' informations such as login ID, numbers of repositories, numbers of followers, numbers of stars and the numbers of following. The data stored will be available with Excel.
 
 ## Output
 ![alt text](https://github.com/chinsfuh/256643-STIW3054-A191-A2/blob/master/asg2rt/Capture1.PNG)
