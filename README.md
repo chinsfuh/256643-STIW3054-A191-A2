@@ -18,7 +18,7 @@ This assignment is all about how to retrieve the followers' data from <a href="h
 
 
 ## UML Class Diagram
-![alt text](.PNG)
+![alt text](https://github.com/chinsfuh/256643-STIW3054-A191-A2/blob/master/asg2rt/umldiagram.PNG)
 
 ## Youtube Presentation
 
